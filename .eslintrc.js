@@ -31,7 +31,6 @@ module.exports = {
 		'linebreak-style': 'off',
 		'react/boolean-prop-naming': 'error',
 		'react/react-in-jsx-scope': 'off',
-		// This may possibly be wrong look back into this
 		'react/prop-types': 'off',
 		'jsx-a11y/anchor-is-valid': 'off',
 		'react/jsx-props-no-spreading': 'off',
